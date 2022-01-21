@@ -7,9 +7,10 @@
 ## Agenda
 
 * Chair Introductions (5 minutes)
-* Charter Review (10 minutes)
+* Charter Review (15 minutes)
 * Attacker tooling and tactics: How scaled abuse works on the web (15 minutes)
-* Initial Work Items (10 minutes)
+* Related Work (3 minutes)
+* Initial Work Items (15 minutes)
 
 ## Resources
 
