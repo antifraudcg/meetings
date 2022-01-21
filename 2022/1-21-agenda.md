@@ -14,4 +14,6 @@
 
 ## Resources
 
+* [Minutes](https://docs.google.com/document/d/1uM3vIFPwYdKgCVr7JqXf_g78WzWOj51qmGMk8JxQH8w/edit#)
+
 ## Minutes
