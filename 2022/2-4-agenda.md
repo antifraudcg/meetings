@@ -6,9 +6,10 @@
 
 ## Agenda
 
-* ???
-* Charter Review (10 minutes)
-* Initial Work Items (15 minutes)
+* Use Cases and Threat Models (15 mins)
+* Charter Review (10 mins)
+* Fraud Solution Providers - Socure (15 mins)
+* Initial Work Items (15 mins)
 
 ## Resources
 
