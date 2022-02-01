@@ -14,7 +14,6 @@
 
 ## Resources
 
-* [Minutes](https://docs.google.com/document/d/1uM3vIFPwYdKgCVr7JqXf_g78WzWOj51qmGMk8JxQH8w/edit#)
 * [Chair Slides](https://docs.google.com/presentation/d/1XAoj6Hq_DG1XHhI4yNs0ljNB44-AFY-TnJgSFAdBC0g/edit?usp=sharing&resourcekey=0-GxGUh1Q1wBTflpPcOgYbKw)
 * [Attacker Tooling and Tactics](https://docs.google.com/presentation/d/10anib3tVGUeY5Cp8XsVrwScxqvZl81nYVvboW0SZ8xc/edit?usp=sharing)
 
