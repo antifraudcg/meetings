@@ -7,6 +7,8 @@ Time: 9:00-17:00 GMT daily, with 1h30 pause midday
 Location: Cloudflare Office, [London County Hall](https://maps.app.goo.gl/xyHd5HgNn8UcidtcA), Riverside Building, 6th Floor, County Hall/The, Belvedere Rd, London SE1 7PB, United Kingdom
 Remote attendance: [Zoom for remote attendance]()
 
+Lunch will be provided on Monday and Tuesday.
+
 ## Agenda
 [Full Agenda](https://docs.google.com/document/d/1URjdFam3OtSrfT-TJL96FyVTqXtJoOZX6vUXIn47KkY/edit?tab=t.0)
 * Monday: Presentation of use cases and requirements + priorities.
